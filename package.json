@@ -1,8 +1,8 @@
 {
   "name": "text-clamp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "处理文字超出最大行数显示...",
-  "main": "./src/clamp.js",
+  "main": "./dist/clamp.min.js",
   "scripts": {
     "build": "node build/build.js"
   },

@@ -1,8 +1,8 @@
-export declare function clamp(element:HTMLElement, options?:ClampOptions);
+export declare function clamp(element: HTMLElement, options?: ClampOptions): any;
 
 /**
  * 参数
- * 
+ *
  * @export
  * @interface ClampOptions
  */

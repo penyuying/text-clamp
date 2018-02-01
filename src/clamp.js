@@ -250,4 +250,4 @@ export function clamp(element, options) {
 }
 
 // export const clamp=clamp;
-export const $clamp=clamp;
+// export const $clamp=clamp;

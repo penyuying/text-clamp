@@ -1,6 +1,6 @@
 /*!
- * text-clamp v1.0.0
- * (c) 2017-2017 penyuying
+ * text-clamp v1.0.1
+ * (c) 2017-2018 penyuying
  * Released under the MIT License.
  */
 (function (global, factory) {
@@ -254,10 +254,9 @@ function clamp(element, options) {
 }
 
 // export const clamp=clamp;
-var $clamp = clamp;
+// export const $clamp=clamp;
 
 exports.clamp = clamp;
-exports.$clamp = $clamp;
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
